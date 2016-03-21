@@ -24,8 +24,8 @@ Less类似于jQuery
 
 4. 把Less目录拖到Koala中，点击右键设置输出目录：
 ![设置输出目录](image/160318/lesscss/2.png)   
-输出到style/main.css中：
-![Paste_Image.png](image/160318/lesscss/3.png)  
+输出到style/main.css中：  
+![Paste_Image.png](image/160318/lesscss/3.png)    
 实际上是通Koala把main.less编译成css然后写入到mian.css文件中。
 
 5. 编译less  

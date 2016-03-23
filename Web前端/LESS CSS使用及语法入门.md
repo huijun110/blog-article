@@ -18,24 +18,24 @@ Less类似于jQuery
 1. 下载安装后，打开设置，更换语言为简体中文，然后重启。
 
 2. 新建Less项目目录如下：
-![Less项目目录](image/160318/lesscss/1.png)
+![Less项目目录](../image/160318/lesscss/1.png)
 
 3. 在style文件夹下新建main.less文件，推荐使用用Sublime Text，打开main.less
 
 4. 把Less目录拖到Koala中，点击右键设置输出目录：
-![设置输出目录](image/160318/lesscss/2.png)   
+![设置输出目录](../image/160318/lesscss/2.png)   
 输出到style/main.css中：  
-![Paste_Image.png](image/160318/lesscss/3.png)    
+![Paste_Image.png](../image/160318/lesscss/3.png)    
 实际上是通Koala把main.less编译成css然后写入到mian.css文件中。
 
 5. 编译less  
 点击文件展示功能选择，选择自动编译，然后点击执行编译按钮，如果成功会提示Success。  
-![提示Success](image/160318/lesscss/4.png)
+![提示Success](../image/160318/lesscss/4.png)
 输出方式的compress是压缩后的代码，我们开发、学习阶段可以使用默认的normal方式。
 
 6. 在HTML文件中引用css
 打开index.html，link引用  
-![link引用](image/160318/lesscss/5.png)
+![link引用](../image/160318/lesscss/5.png)
 
 7. 测试  
 我们在main.less中写less代码，保存后就自动编译到了main.css文件中。

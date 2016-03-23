@@ -18,7 +18,7 @@ HTML£º
 </html>
 ```
 JS£º
-```
+```js
 window.onload = initAll;
 function initAll(){
     document.getElementById("redirect").onclick = initRedirect;

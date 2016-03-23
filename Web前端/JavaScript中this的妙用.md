@@ -30,6 +30,7 @@ function initRedirect(){
 }
 ```
 [在线演示](http://sandbox.runjs.cn/show/mp2pnrda)
+
 你可能会主要到，代码中并没有引用特定的网页——这是this关键字的作用之一。this替我们完成的工作之一是从HTML链接获得URL（也就是a标签的href属性）。由于采用这种方式，如果以后脚本改为指向其他的页面而不是旧物商店页面，就不必修改JS。实际上，可以让WEB站点上的所有链接都调用这个相同的JS代码，这一行代码都会自动获得相应的href值。
 这样写还有一个好处：如果用户的浏览器不理解JavaScript（比如禁用了JS）,那么它只会加载HTML页面，而不显示alert提示，当他们点击链接时，会像一般情况下那样加载页面，不会发生错误，没有任何问题。
 我们在来看一个switch/case例子，创建如下页面：
@@ -84,6 +85,7 @@ function viewDetail(){
 }
 ```
 [在线演示](http://sandbox.runjs.cn/show/wflrmken)
+
 直接用this.id作为switch的参数也是可以的。
 
 原文链接：[http://www.mybry.com/?p=407](http://www.mybry.com/?p=407)

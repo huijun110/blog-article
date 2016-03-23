@@ -36,7 +36,7 @@ function initRedirect(){
 我们在来看一个switch/case例子，创建如下页面：
 ![Paste_Image.png](../image/160318/js-this/1.png)
 HTML：
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -56,7 +56,7 @@ HTML：
 </html>
 ```
 JS:
-```
+```js
 window.onload = initAll;
 function initAll(){
     document.getElementById("Java").onclick = viewDetail;

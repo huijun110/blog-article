@@ -1,5 +1,3 @@
 #博客文章
 
-[直接访问（GitHub版）](http://dunizb.github.io/blog/)
-
-[直接访问（独立博客）](http://duni.sinaapp.com)
+近期博客文章，过去久远的没有放上来

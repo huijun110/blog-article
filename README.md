@@ -24,6 +24,9 @@
 
 **进击JavaScript系列**
 + [JS01：进击JavaScript之变量声明提升](./Web前端/进击JavaScript系列/JS01：进击JavaScript之变量声明提升.md)
++ [JS02：进击JavaScript之词法作用域与作用域链](./Web前端/进击JavaScript系列/JS02：进击JavaScript之词法作用域与作用域链.md)
++ [JS03：进击JavaScript之玩转闭包](./Web前端/进击JavaScript系列/JS03：进击JavaScript之玩转闭包.md)
++ [JS04：进击JavaScript之玩转递归与数列](./Web前端/进击JavaScript系列/JS04：进击JavaScript之玩转递归与数列.md)
 
 ## 读书笔记&札记
 + [NB00：《如何阅读一本书》之阅读一本书的四个层次](./读书笔记&札记/NB00：《如何阅读一本书》之阅读一本书的四个层次.md)

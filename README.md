@@ -4,12 +4,6 @@
 
 # 目录
 
-## 开发工具
-
-**图解GitHub系列**
-+ [GT00：GitHub.com上的那些东西你都知道什么意思吗？](./Dev Tool/图解GitHub系列/GT00：GitHub.com上的那些东西你都知道什么意思吗？.md)
-+ [GT01：GitHub中的Pull Request和Pulse详解](./Dev Tool/图解GitHub系列/GT01：GitHub中的Pull Request和Pulse详解.md)
-
 ## Web前端
 
 **JavaScript**
@@ -34,6 +28,16 @@
 + [HC04：CSS行高（line-height）及文本垂直居中原理](./Web前端/当HTML遇上CSS/HC04：CSS行高（line-height）及文本垂直居中原理.md)
 + [HC05：CSS3聊天气泡框以及inherit、currentColor关键字](./Web前端/当HTML遇上CSS/HC05：CSS3聊天气泡框以及inherit、currentColor关键字.md)
 + [HC06：HTML5 VideoAPI，打造自己的Web视频播放器](./Web前端/当HTML遇上CSS/HC06：HTML5 VideoAPI，打造自己的Web视频播放器.md)
+
+## 开发工具
+
+**图解GitHub系列**
++ [GT00：GitHub.com上的那些东西你都知道什么意思吗？](./Dev Tool/图解GitHub系列/GT00：GitHub.com上的那些东西你都知道什么意思吗？.md)
++ [GT01：GitHub中的Pull Request和Pulse详解](./Dev Tool/图解GitHub系列/GT01：GitHub中的Pull Request和Pulse详解.md)
+
+**其他**
++ [DT00：Sublime Text3插件安装简明图文教程](./Dev Tool/DT00：Sublime Text3插件安装简明图文教程.md)
++ [DT01：如何在Sublime Text中添加代码片段](./Dev Tool/DT01：如何在Sublime Text中添加代码片段.md)
 
 ## 读书笔记&札记
 + [NB00：《如何阅读一本书》之阅读一本书的四个层次](./读书笔记&札记/NB00：《如何阅读一本书》之阅读一本书的四个层次.md)

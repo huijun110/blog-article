@@ -36,6 +36,9 @@
 **图解GitHub系列**
 + [GT00：GitHub.com上的那些东西你都知道什么意思吗？](./Dev Tool/图解GitHub系列/GT00：GitHub.com上的那些东西你都知道什么意思吗？.md)
 + [GT01：GitHub中的Pull Request和Pulse详解](./Dev Tool/图解GitHub系列/GT01：GitHub中的Pull Request和Pulse详解.md)
++ [GT02：GitHub中Issue的使用](./Dev Tool/图解GitHub系列/GT02：GitHub中Issue的使用.md)
++ [GT03：GitHub中Graphs和Settings详解](./Dev Tool/图解GitHub系列/GT03：GitHub中Graphs和Settings详解.md)
++ [GT04：小技巧！在GitHub中查看分支差别](./Dev Tool/图解GitHub系列/GT04：小技巧！在GitHub中查看分支差别.md)
 
 **其他**
 + [DT00：Sublime Text3插件安装简明图文教程](./Dev Tool/DT00：Sublime Text3插件安装简明图文教程.md)

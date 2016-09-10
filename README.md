@@ -2,7 +2,7 @@
 
 近期博客文章，过去久远的没有放上来
 
-# 更新时间：2016-09-07
+# 更新时间：2016-09-10
 
 # 目录
 
@@ -17,6 +17,7 @@
 + [JS02：进击JavaScript之词法作用域与作用域链](./Web前端/进击JavaScript系列/JS02：进击JavaScript之词法作用域与作用域链.md)
 + [JS03：进击JavaScript之玩转闭包](./Web前端/进击JavaScript系列/JS03：进击JavaScript之玩转闭包.md)
 + [JS04：进击JavaScript之玩转递归与数列](./Web前端/进击JavaScript系列/JS04：进击JavaScript之玩转递归与数列.md)
++ [JS05：JS05：进击JavaScript之（五）原型与继承](./Web前端/进击JavaScript系列/JS05：进击JavaScript之（五）原型与继承.md)
 
 **jQuery**
 + [JQ00：jQuery的动画总结](./Web前端/jQuery/JQ00：jQuery的动画总结.md)

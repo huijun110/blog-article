@@ -4,6 +4,8 @@
 
 # 更新时间：2016-09-10
 
+新增：《进击JavaScript之（五）原型与继承》
+
 # 目录
 
 ## Web前端
@@ -13,11 +15,11 @@
 + [JS02：JavaScript面向对象程序设计基础](./Web前端/JavaScript/JS02：JavaScript面向对象程序设计基础.md)
 
 **进击JavaScript系列**
-+ [JS01：进击JavaScript之变量声明提升](./Web前端/进击JavaScript系列/JS01：进击JavaScript之变量声明提升.md)
-+ [JS02：进击JavaScript之词法作用域与作用域链](./Web前端/进击JavaScript系列/JS02：进击JavaScript之词法作用域与作用域链.md)
-+ [JS03：进击JavaScript之玩转闭包](./Web前端/进击JavaScript系列/JS03：进击JavaScript之玩转闭包.md)
-+ [JS04：进击JavaScript之玩转递归与数列](./Web前端/进击JavaScript系列/JS04：进击JavaScript之玩转递归与数列.md)
-+ [JS05：JS05：进击JavaScript之（五）原型与继承](./Web前端/进击JavaScript系列/JS05：进击JavaScript之（五）原型与继承.md)
++ [JS01：进击JavaScript之（一）变量声明提升](./Web前端/进击JavaScript系列/JS01：进击JavaScript之变量声明提升.md)
++ [JS02：进击JavaScript之（二）词法作用域与作用域链](./Web前端/进击JavaScript系列/JS02：进击JavaScript之词法作用域与作用域链.md)
++ [JS03：进击JavaScript之（三）玩转闭包](./Web前端/进击JavaScript系列/JS03：进击JavaScript之玩转闭包.md)
++ [JS04：进击JavaScript之（四）玩转递归与数列](./Web前端/进击JavaScript系列/JS04：进击JavaScript之玩转递归与数列.md)
++ [JS05：进击JavaScript之（五）原型与继承](./Web前端/进击JavaScript系列/JS05：进击JavaScript之（五）原型与继承.md)
 
 **jQuery**
 + [JQ00：jQuery的动画总结](./Web前端/jQuery/JQ00：jQuery的动画总结.md)

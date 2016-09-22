@@ -2,7 +2,7 @@
 
 之前偶然看到一个公司的笔试题，题目如下：
 用HTML5、CSS3、JavaScript，做一个网页，实现如下图形式计算器
-![图片描述][../../image/1609/calc/1.png]
+![图片描述](../../image/1609/calc/1.png)
  
 具体要求：
 1. 有且只有一个文件：index.html。不允许再有其他文件，不允许再有单独的CSS、JS、PNG、JPG文件。
@@ -33,7 +33,9 @@ https://github.com/dunizb/sCalc](https://github.com/dunizb/sCalc)
 由于这个项目只是练手,所以采用了HTML5个CSS3技术，也不打算兼容IE等低版本浏览器，所以直接使用CSS3提供的Flexbox布局方式。并且使用rem单位来进行自动计算尺寸。
 
 计算计算历史记录显示功能，使用HTML5提供的本地存储功能之Local Storage，为了方便使用Local Storage，对它进行了简单的封装（见`js/common.js`文件）使之key值按一定规律生产，方便管理。
-![图片描述][../../image/1609/calc/2.png]
+
+![图片描述](../../image/1609/calc/2.png)
+
 key由appName+id组成，id是自动增长不重复的，可以按id和appName删除一条记录，输入`*`则全部删除。
 
 **打包APP**

@@ -4,7 +4,7 @@
 
 # 更新时间：2016-09-22
 
-新增：《JS09：纯HTML+CSS+JavaScript编写的计算器应用》
+新增：《JS10：剖析简易计算器带你入门微信小程序开发》
 
 # 目录
 
@@ -20,6 +20,7 @@
 + [JS07：模拟JavaScript的Array.sort()方法](./Web前端/JavaScript/JS07：模拟JavaScript的Array.sort()方法.md)
 + [JS08：script元素的属性详解](./Web前端/JavaScript/JS08：script元素的属性详解.md)
 + [JS09：纯HTML+CSS+JavaScript编写的计算器应用](./Web前端/JavaScript/JS09：纯HTML+CSS+JavaScript编写的计算器应用.md)
++ [JS10：剖析简易计算器带你入门微信小程序开发](./Web前端/JavaScript/JS10：剖析简易计算器带你入门微信小程序开发.md)
 
 **进击JavaScript系列**
 + [JS01：进击JavaScript之（一）变量声明提升](./Web前端/进击JavaScript系列/JS01：进击JavaScript之变量声明提升.md)

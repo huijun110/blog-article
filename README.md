@@ -5,7 +5,7 @@
 # 更新时间：2017-01-01
 
 新增：
-+ [VUE00：Vue.js常用开发知识简要入门（一）](./Web前端/其它/Vue.js常用开发知识简要入门（一）.md)
++ [VUE00：Vue.js常用开发知识简要入门（一）](https://github.com/dunizb/blog-article/issues/2)
 
 # 目录
 

@@ -2,10 +2,11 @@
 
 近期博客文章，过去久远的没有放上来
 
-# 更新时间：2017-01-08
+# 更新时间：2017-02-04
 
 新增：
-+ [VUE00：Vue.js常用开发知识简要入门（二）](https://github.com/dunizb/blog-article/issues/3)
++ [VUE02：Vue.js常用开发知识简要入门（三）](https://github.com/dunizb/blog-article/issues/4)
++ [VUE01：Vue.js常用开发知识简要入门（二）](https://github.com/dunizb/blog-article/issues/3)
 
 # 目录
 
@@ -13,6 +14,7 @@
 **Vue.js**
 + [VUE00：Vue.js常用开发知识简要入门（一）](https://github.com/dunizb/blog-article/issues/2)
 + [VUE01：Vue.js常用开发知识简要入门（二）](https://github.com/dunizb/blog-article/issues/3)
++ [VUE02：Vue.js常用开发知识简要入门（三）](https://github.com/dunizb/blog-article/issues/4)
 
 **JavaScript**
 + [JS01：.JavaScript中this的妙用](./Web前端/JavaScript/JS01：.JavaScript中this的妙用.md)

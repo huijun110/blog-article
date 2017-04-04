@@ -1,11 +1,11 @@
-#博客文章
+# 博客文章
 
 近期博客文章，过去久远的没有放上来
 
 # 更新时间：2017-02-04
 
 新增：
-+ [HC07：响应式图片实战](https://github.com/dunizb/blog-article/issues/5)
++ [NB07：《Web全栈工程师的自我修养》浓缩笔记](https://github.com/dunizb/blog-article/issues/6)
 
 # 目录
 
@@ -67,6 +67,7 @@
 + [DT01：如何在Sublime Text中添加代码片段](./Dev Tool/DT01：如何在Sublime Text中添加代码片段.md)
 
 ## 读书笔记&札记
++ [NB07：《Web全栈工程师的自我修养》浓缩笔记](https://github.com/dunizb/blog-article/issues/6)
 + [NB00：《如何阅读一本书》之阅读一本书的四个层次](./读书笔记&札记/NB00：《如何阅读一本书》之阅读一本书的四个层次.md)
 + [NB01：《我们怎样读书》之为学与做人](./读书笔记&札记/NB01：《我们怎样读书》之为学与做人.md)
 + [NB02：《我们怎样读书》之为什么要学，怎么学](./读书笔记&札记/NB02：《我们怎样读书》之为什么要学，怎么学.md)

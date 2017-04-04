@@ -45,7 +45,7 @@
 
 **当HTML遇上CSS**
 + [HC07：响应式图片实战](https://github.com/dunizb/blog-article/issues/5)
-+ [HC06：HTML5 VideoAPI，打造自己的Web视频播放器](./Web前端/当HTML遇上CSS/HC06：HTML5 VideoAPI，打造自己的Web视频播放器.md)
++ [HC06：HTML5 VideoAPI，打造自己的Web视频播放器](./Web前端/当HTML遇上CSS/HC06：HTML5%20VideoAPI，打造自己的Web视频播放器.md)
 + [HC05：CSS3聊天气泡框以及inherit、currentColor关键字](./Web前端/当HTML遇上CSS/HC05：CSS3聊天气泡框以及inherit、currentColor关键字.md)
 + [HC04：CSS行高（line-height）及文本垂直居中原理](./Web前端/当HTML遇上CSS/HC04：CSS行高（line-height）及文本垂直居中原理.md)
 + [HC03：CSS的常见问题(二)](./Web前端/当HTML遇上CSS/HC03：CSS的常见问题(二).md)

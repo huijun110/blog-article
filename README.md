@@ -2,9 +2,11 @@
 
 近期博客文章，过去久远的没有放上来
 
-# 更新时间：2017-06-15
+## 更新时间：2017-06-15
 
-## 新增：
+## 新增
+
++ [NB09：《从《硅谷之谜》中能学到什么？》](https://github.com/dunizb/blog-article/issues/8)
 + [NB08：《硅谷之谜：“别人”的工程师文化》](https://github.com/dunizb/blog-article/issues/7)
 
 ## 目录
@@ -55,6 +57,7 @@
 + [零碎笔记：移动Web特别样式处理](./other/零碎笔记：移动Web特别样式处理.md)
 
 **读书笔记&札记**
++ [NB09：《从《硅谷之谜》中能学到什么？》](https://github.com/dunizb/blog-article/issues/8)
 + [NB08：《硅谷之谜：“别人”的工程师文化》](https://github.com/dunizb/blog-article/issues/7)
 + [NB07：《Web全栈工程师的自我修养》浓缩笔记](https://github.com/dunizb/blog-article/issues/6)
 + [NB00：《如何阅读一本书》之阅读一本书的四个层次](./读书笔记&札记/NB00：《如何阅读一本书》之阅读一本书的四个层次.md)

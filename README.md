@@ -2,7 +2,7 @@
 
 近期博客文章，过去久远的没有放上来
 
-# 更新时间：2017-02-04
+# 更新时间：2017-06-15
 
 新增：
 + [NB07：《Web全栈工程师的自我修养》浓缩笔记](https://github.com/dunizb/blog-article/issues/6)
@@ -16,25 +16,23 @@
 + [VUE02：Vue.js常用开发知识简要入门（三）](https://github.com/dunizb/blog-article/issues/4)
 
 **JavaScript**
-+ [JS01：.JavaScript中this的妙用](./Web前端/JavaScript/JS01：.JavaScript中this的妙用.md)
-+ [JS02：JavaScript面向对象程序设计基础](./Web前端/JavaScript/JS02：JavaScript面向对象程序设计基础.md)
-+ [JS03：JavaScript中的数据类型回顾](./Web前端/JavaScript/JS03：JavaScript中的数据类型回顾.md)
-+ [JS04：JS检测图片的宽高和Image对象](./Web前端/JavaScript/JS04：JS检测图片的宽高和Image对象.md)
-+ [JS05：JavaScript中的继承入门](./Web前端/JavaScript/JS05：JavaScript中的继承入门.md)
-+ [JS06：.JavaScript的“&&”与“｜｜”操作符总结](./Web前端/JavaScript/JS06：.JavaScript的“&&”与“｜｜”操作符总结.md)
-+ [JS07：模拟JavaScript的Array.sort()方法](./Web前端/JavaScript/JS07：模拟JavaScript的Array.sort()方法.md)
-+ [JS08：script元素的属性详解](./Web前端/JavaScript/JS08：script元素的属性详解.md)
-+ [JS09：纯HTML+CSS+JavaScript编写的计算器应用](./Web前端/JavaScript/JS09：纯HTML+CSS+JavaScript编写的计算器应用.md)
-+ [JS10：剖析简易计算器带你入门微信小程序开发](./Web前端/JavaScript/JS10：剖析简易计算器带你入门微信小程序开发.md)
-+ [JS011：进击JavaScript之（一）变量声明提升](./Web前端/进击JavaScript系列/JS011：进击JavaScript之变量声明提升.md)
-+ [JS012：进击JavaScript之（二）词法作用域与作用域链](./Web前端/进击JavaScript系列/JS012：进击JavaScript之词法作用域与作用域链.md)
-+ [JS013：进击JavaScript之（三）玩转闭包](./Web前端/进击JavaScript系列/JS013：进击JavaScript之玩转闭包.md)
-+ [JS014：进击JavaScript之（四）玩转递归与数列](./Web前端/进击JavaScript系列/JS014：进击JavaScript之玩转递归与数列.md)
-+ [JS015：进击JavaScript之（五）原型与继承](./Web前端/进击JavaScript系列/JS015：进击JavaScript之（五）原型与继承.md)
-
-**jQuery**
-+ [JQ00：jQuery的动画总结](./Web前端/jQuery/JQ00：jQuery的动画总结.md)
-+ [JQ01：书写高质量jQuery代码的12条经验](./Web前端/jQuery/JQ01：书写高质量jQuery代码的12条经验.md)
++ [JS01：.JavaScript中this的妙用](./Web前端/JS01：.JavaScript中this的妙用.md)
++ [JS02：JavaScript面向对象程序设计基础](./Web前端/JS02：JavaScript面向对象程序设计基础.md)
++ [JS03：JavaScript中的数据类型回顾](./Web前端/JS03：JavaScript中的数据类型回顾.md)
++ [JS04：JS检测图片的宽高和Image对象](./Web前端/JS04：JS检测图片的宽高和Image对象.md)
++ [JS05：JavaScript中的继承入门](./Web前端/JS05：JavaScript中的继承入门.md)
++ [JS06：.JavaScript的“&&”与“｜｜”操作符总结](./Web前端/JS06：.JavaScript的“&&”与“｜｜”操作符总结.md)
++ [JS07：模拟JavaScript的Array.sort()方法](./Web前端/JS07：模拟JavaScript的Array.sort()方法.md)
++ [JS08：script元素的属性详解](./Web前端/JS08：script元素的属性详解.md)
++ [JS09：纯HTML+CSS+JavaScript编写的计算器应用](./Web前端/JS09：纯HTML+CSS+JavaScript编写的计算器应用.md)
++ [JS10：剖析简易计算器带你入门微信小程序开发](./Web前端/JS10：剖析简易计算器带你入门微信小程序开发.md)
++ [JS11：进击JavaScript之（一）变量声明提升](./Web前端/JS11：进击JavaScript之变量声明提升.md)
++ [JS12：进击JavaScript之（二）词法作用域与作用域链](./Web前端/JS12：进击JavaScript之词法作用域与作用域链.md)
++ [JS13：进击JavaScript之（三）玩转闭包](./Web前端/JS13：进击JavaScript之玩转闭包.md)
++ [JS14：进击JavaScript之（四）玩转递归与数列](./Web前端/JS14：进击JavaScript之玩转递归与数列.md)
++ [JS15：进击JavaScript之（五）原型与继承](./Web前端/JS15：进击JavaScript之（五）原型与继承.md)
++ [JS16：jQuery的动画总结](./Web前端/JS16：jQuery的动画总结.md)
++ [JS17：书写高质量jQuery代码的12条经验](./Web前端/JS17：书写高质量jQuery代码的12条经验.md)
 
 **其他**
 + [O01：零碎笔记：浏览器访问一个网站所经历的步骤](./Web前端/其它/零碎笔记：浏览器访问一个网站所经历的步骤.md)

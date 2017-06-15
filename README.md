@@ -32,16 +32,14 @@
 + [JS15：进击JavaScript之（五）原型与继承](./Web前端/JS15：进击JavaScript之（五）原型与继承.md)
 + [JS16：jQuery的动画总结](./Web前端/JS16：jQuery的动画总结.md)
 + [JS17：书写高质量jQuery代码的12条经验](./Web前端/JS17：书写高质量jQuery代码的12条经验.md)
-
-**当HTML遇上CSS**
 + [HC07：响应式图片实战](https://github.com/dunizb/blog-article/issues/5)
-+ [HC06：HTML5 VideoAPI，打造自己的Web视频播放器](./Web前端/当HTML遇上CSS/HC06：HTML5%20VideoAPI，打造自己的Web视频播放器.md)
-+ [HC05：CSS3聊天气泡框以及inherit、currentColor关键字](./Web前端/当HTML遇上CSS/HC05：CSS3聊天气泡框以及inherit、currentColor关键字.md)
-+ [HC04：CSS行高（line-height）及文本垂直居中原理](./Web前端/当HTML遇上CSS/HC04：CSS行高（line-height）及文本垂直居中原理.md)
-+ [HC03：CSS的常见问题(二)](./Web前端/当HTML遇上CSS/HC03：CSS的常见问题(二).md)
-+ [HC02：CSS的常见问题(一)](./Web前端/当HTML遇上CSS/HC02：CSS的常见问题(一).md)
-+ [HC01：CSS的低权重原则—避免滥用子选择器](./Web前端/当HTML遇上CSS/HC01：CSS的低权重原则—避免滥用子选择器.md)
-+ [HC00：LESS CSS使用及语法入门](./Web前端/当HTML遇上CSS/HC00：LESS CSS使用及语法入门.md)
++ [HC06：HTML5 VideoAPI，打造自己的Web视频播放器](./Web前端/HC06：HTML5%20VideoAPI，打造自己的Web视频播放器.md)
++ [HC05：CSS3聊天气泡框以及inherit、currentColor关键字](./Web前端/HC05：CSS3聊天气泡框以及inherit、currentColor关键字.md)
++ [HC04：CSS行高（line-height）及文本垂直居中原理](./Web前端/HC04：CSS行高（line-height）及文本垂直居中原理.md)
++ [HC03：CSS的常见问题(二)](./Web前端/HC03：CSS的常见问题(二).md)
++ [HC02：CSS的常见问题(一)](./Web前端/HC02：CSS的常见问题(一).md)
++ [HC01：CSS的低权重原则—避免滥用子选择器](./Web前端/HC01：CSS的低权重原则—避免滥用子选择器.md)
++ [HC00：LESS CSS使用及语法入门](./Web前端/HC00：LESS-CSS使用及语法入门.md)
 
 **图解GitHub系列**
 + [GT00：GitHub.com上的那些东西你都知道什么意思吗？](./图解GitHub系列/GT00：GitHub.com上的那些东西你都知道什么意思吗？.md)

@@ -55,8 +55,8 @@
 + [GT04：小技巧！在GitHub中查看分支差别](./DevTool/图解GitHub系列/GT04：小技巧！在GitHub中查看分支差别.md)
 
 **其他**
-+ [DT00：Sublime Text3插件安装简明图文教程](./DevTool/DT00：Sublime Text3插件安装简明图文教程.md)
-+ [DT01：如何在Sublime Text中添加代码片段](./DevTool/DT01：如何在Sublime Text中添加代码片段.md)
++ [DT00：Sublime Text3插件安装简明图文教程](./DevTool/DT00：Sublime-Text3插件安装简明图文教程.md)
++ [DT01：如何在Sublime Text中添加代码片段](./DevTool/DT01：如何在Sublime-Text中添加代码片段.md)
 
 **读书笔记&札记**
 + [NB07：《Web全栈工程师的自我修养》浓缩笔记](https://github.com/dunizb/blog-article/issues/6)

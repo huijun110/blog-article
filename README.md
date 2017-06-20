@@ -2,11 +2,11 @@
 
 近期博客文章，过去久远的没有放上来
 
-## 更新时间：2017-06-19
+## 更新时间：2017-06-20
 
 ## 新增
 
-+ [VUE03：Vue.js开发常见问题解析](https://github.com/dunizb/blog-article/issues/9)
++ [VUE04：Vue.js项目API、Router配置拆分实践](https://github.com/dunizb/blog-article/issues/10)
 
 ## 目录
 
@@ -23,6 +23,7 @@
 + [NB06：计算机的三大原则与计算机的进化](./读书笔记&札记/NB06：计算机的三大原则与计算机的进化.md)
 
 **Vue.js**
++ [VUE04：Vue.js项目API、Router配置拆分实践](https://github.com/dunizb/blog-article/issues/10)
 + [VUE03：Vue.js开发常见问题解析](https://github.com/dunizb/blog-article/issues/9)
 + [VUE02：Vue.js常用开发知识简要入门（三）](https://github.com/dunizb/blog-article/issues/4)
 + [VUE01：Vue.js常用开发知识简要入门（二）](https://github.com/dunizb/blog-article/issues/3)

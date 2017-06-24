@@ -11,6 +11,7 @@
 ## 目录
 
 **读书笔记&札记**
++ [NB10：你会靠谱的进行(Bug)错误报告吗？](https://github.com/dunizb/blog-article/issues/11)
 + [NB09：从《硅谷之谜》中能学到什么？](https://github.com/dunizb/blog-article/issues/8)
 + [NB08：硅谷之谜：“别人”的工程师文化](https://github.com/dunizb/blog-article/issues/7)
 + [NB07：《Web全栈工程师的自我修养》浓缩笔记](https://github.com/dunizb/blog-article/issues/6)

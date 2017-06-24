@@ -2,11 +2,11 @@
 
 近期博客文章，过去久远的没有放上来
 
-## 更新时间：2017-06-20
+## 更新时间：2017-06-24
 
 ## 新增
 
-+ [VUE04：Vue.js项目API、Router配置拆分实践](https://github.com/dunizb/blog-article/issues/10)
++ [NB10：你会靠谱的进行(Bug)错误报告吗？](https://github.com/dunizb/blog-article/issues/11)
 
 ## 目录
 

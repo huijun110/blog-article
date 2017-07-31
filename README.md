@@ -2,14 +2,15 @@
 
 近期博客文章，过去久远的没有放上来
 
-## 更新时间：2017-06-27
+## 更新时间：2017-07-31
 
 ## 新增
-+ [NB11：程序员，软件测试知多少？](https://github.com/dunizb/blog-article/issues/12)
++ [NB12：技术主管该如何管理技术团队之精神篇](https://github.com/dunizb/blog-article/issues/13)
 
 ## 目录
 
 **读书笔记&札记**
++ [NB12：技术主管该如何管理技术团队之精神篇](https://github.com/dunizb/blog-article/issues/13)
 + [NB11：程序员，软件测试知多少？](https://github.com/dunizb/blog-article/issues/12)
 + [NB10：你会靠谱的进行(Bug)错误报告吗？](https://github.com/dunizb/blog-article/issues/11)
 + [NB09：从《硅谷之谜》中能学到什么？](https://github.com/dunizb/blog-article/issues/8)
